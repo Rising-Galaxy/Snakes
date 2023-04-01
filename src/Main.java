@@ -3,5 +3,6 @@ public class Main {
 	{
 		System.out.println("93232");
 		int a;
+		System.out.println("我做个测试");
 	}
 }
